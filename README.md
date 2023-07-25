@@ -1,1 +1,1 @@
-# BERT_LEARN
+The famous imdb dataset was used here, which includes 50,000 movie reviews classified as positive and negative.The purpose of this study is to classify a new entry as either a positive review or a negative review using the BERT model.
